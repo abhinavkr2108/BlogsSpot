@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blogs Spot</string>
+    <string name="app_desc">Share your Blogs with the world</string>
+    <string name="blogs_spot">Blogs Spot</string>
+    <string name="welcome_text">WELCOME TO BLOGS SPOT</string>
+    <string name="signup_text">SIGN UP FOR NEW ACCOUNT</string>
+    <string name="welcome_back">WELCOME BACK</string>
+</resources>
